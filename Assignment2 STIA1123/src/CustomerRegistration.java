@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class CustomerRegistration extends EventDescription {     //CustomerRegistration is a subclass for EventDescription
+public class CustomerRegistration extends EventDescription {     //2.1 Inheritance
 	
 	Scanner sc = new Scanner(System.in);    //to answer question 1.2 Pre-Define Class for using Scanner        
 	
